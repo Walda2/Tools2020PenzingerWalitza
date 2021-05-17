@@ -5,6 +5,7 @@ public class test {
 	public void thisIsANewMethod() {
 		System.out.println("Dies ist die Zeile von spenzinger");
 		System.out.println("new line of code");
+		//Bugfix 1
 	}
 	
 	private int testMethod() {
