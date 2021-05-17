@@ -12,5 +12,6 @@ public class test {
 		System.out.println("Hallo");
 		System.out.println("New Line");
 		//Bugfix 2
+		//Bugfix3
 	}
 }
